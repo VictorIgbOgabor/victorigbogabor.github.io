@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.clarity.app",
-        "sha256_cert_fingerprints": ["22:5C:EE:E8:BA:23:6D:87:09:7A:9F:90:3B:0F:56:B3:B8:1A:FC:48:32:D7:56:55:EC:7C:39:9F:D2:68:37:5B"]
+        "sha256_cert_fingerprints": ["7F:DD:27:C0:BC:F6:64:CD:EA:8D:7B:84:8C:B1:09:07:31:40:28:44:43:66:A0:AC:38:6C:27:91:D1:CA:D4:12"]
       }
     }]
