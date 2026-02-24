@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.clarity.app",
+        "sha256_cert_fingerprints": ["22:5C:EE:E8:BA:23:6D:87:09:7A:9F:90:3B:0F:56:B3:B8:1A:FC:48:32:D7:56:55:EC:7C:39:9F:D2:68:37:5B"]
+      }
+    }]
